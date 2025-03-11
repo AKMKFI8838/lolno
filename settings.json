@@ -1,0 +1,48 @@
+{
+  "bot-account": {
+    "username": "Noob-By-Akshit", 
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "gulper.aternos.host", 
+    "port": 39650,   
+    "version": "1.12.1"   
+  },
+  
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "I'm a regular player",
+        "Akshit IS My Master",
+        "LE re L**d ke"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
